@@ -1,4 +1,4 @@
-# trial
+# Simple flutter calculator
 
 A new Flutter project.
 
